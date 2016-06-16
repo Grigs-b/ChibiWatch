@@ -1,0 +1,71 @@
+{
+  "stickers" : [
+    {
+      "filename" : "bastion_x.sticker"
+    },
+    {
+      "filename" : "dva_x.sticker"
+    },
+    {
+      "filename" : "genji_x.sticker"
+    },
+    {
+      "filename" : "hanzo_x.sticker"
+    },
+    {
+      "filename" : "junkrat_x.sticker"
+    },
+    {
+      "filename" : "lucio_x.sticker"
+    },
+    {
+      "filename" : "mccree_x.sticker"
+    },
+    {
+      "filename" : "mei_x.sticker"
+    },
+    {
+      "filename" : "mercy_x.sticker"
+    },
+    {
+      "filename" : "pharah_x.sticker"
+    },
+    {
+      "filename" : "reaper_x.sticker"
+    },
+    {
+      "filename" : "reinhardt_x.sticker"
+    },
+    {
+      "filename" : "roadhog_x.sticker"
+    },
+    {
+      "filename" : "soldier76_x.sticker"
+    },
+    {
+      "filename" : "symmetra_x.sticker"
+    },
+    {
+      "filename" : "torbjorn_x.sticker"
+    },
+    {
+      "filename" : "tracer_x.sticker"
+    },
+    {
+      "filename" : "widowmaker_x.sticker"
+    },
+    {
+      "filename" : "zarya_x.sticker"
+    },
+    {
+      "filename" : "zenyatta_x.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
